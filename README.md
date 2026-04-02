@@ -239,4 +239,3 @@ public class Main {
 
         sc.close();
     }
-}# Classroom-Efficiency-Logger
